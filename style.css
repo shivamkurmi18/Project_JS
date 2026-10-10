@@ -1,0 +1,48 @@
+/* Simon game online version */
+
+*{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    background-color: #ffcbe3
+}
+
+.btn{
+    height: 180px;
+    width: 180px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.yellow{
+    background-color: #f99b45;
+}
+.red{
+    background-color: #d95980;
+}
+.purple{
+    background-color: #819ff9;
+}
+.green{
+    background-color: #63aac0;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: #d0e0e3;
+}
+
+/* .dom{
+    background-color: red;
+} */
